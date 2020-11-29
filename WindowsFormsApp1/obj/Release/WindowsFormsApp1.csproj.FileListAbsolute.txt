@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\BLogic.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\Model.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\Common.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\BLogic.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\Model.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\bin\Release\Common.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\DELL\source\repos\Inventoy_Management_System\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

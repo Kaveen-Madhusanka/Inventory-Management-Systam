@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\bin\Debug\Common.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\bin\Debug\Common.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\bin\Debug\Model.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\bin\Debug\Model.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\obj\Debug\Common.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\Common\obj\Debug\Common.pdb

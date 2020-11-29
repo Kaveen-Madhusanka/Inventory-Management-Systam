@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\Inventoy_Management_System\Model\bin\Release\Model.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\Model\bin\Release\Model.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\Model\obj\Release\Model.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\Model\obj\Release\Model.pdb

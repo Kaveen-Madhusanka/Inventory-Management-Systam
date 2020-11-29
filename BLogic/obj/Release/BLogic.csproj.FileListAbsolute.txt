@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\bin\Release\BLogic.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\bin\Release\BLogic.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\bin\Release\Common.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\bin\Release\Model.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\bin\Release\Common.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\bin\Release\Model.pdb
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\obj\Release\BLogic.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\obj\Release\BLogic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\obj\Release\BLogic.csproj.CopyComplete
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\obj\Release\BLogic.dll
+C:\Users\DELL\source\repos\Inventoy_Management_System\BLogic\obj\Release\BLogic.pdb
